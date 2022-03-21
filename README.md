@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+QUIZ Application build on flutter using dart language .
+Benifits of flutter are:
+App is faster , Occupies less space , efficient , excellent ui/ux design.
